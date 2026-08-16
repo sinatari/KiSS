@@ -1,0 +1,87 @@
+{
+  "brand": { "name": "KiSS", "tagline": "Kept in Stockholm Style" },
+  "nav": {
+    "home": "Hem", "about": "Om oss", "services": "Tjänster", "portfolio": "Riktiga Bröllop",
+    "venues": "Lokaler", "journal": "Journal", "contact": "Kontakt", "cta": "Boka konsultation"
+  },
+  "home": {
+    "heroTitle": "Bröllop, planerade med stillsam elegans",
+    "heroSubtitle": "KiSS designar intima, redaktionella bröllop i Stockholm och den svenska landsbygden — för lokala par och destinationsbröllop.",
+    "ctaPrimary": "Boka konsultation",
+    "ctaSecondary": "Se våra bröllop",
+    "introTitle": "En boutiquestudio med personlig touch",
+    "introBody": "Vi hanterar stressen så att ni kan njuta av stunden. Från slottssalar till trädgårdar vid vattnet skapar KiSS bröllop som känns helt era egna — förfinade, varma och oförglömliga.",
+    "servicesTitle": "Hur vi kan hjälpa",
+    "featuredTitle": "Utvalda Bröllop",
+    "testimonialsTitle": "Vänliga Ord",
+    "finalCtaTitle": "Redo att börja planera?",
+    "finalCtaBody": "Berätta om er fest och vi återkommer inom två arbetsdagar."
+  },
+  "services": {
+    "title": "Tjänster",
+    "subtitle": "Nivåanpassad planering för alla typer av firanden",
+    "faqTitle": "Vanliga frågor",
+    "quoteCta": "Begär en skräddarsydd offert",
+    "tiers": {
+      "full": { "name": "Full bröllopsplanering", "desc": "Helhetsplanering från idé till genomförande, bokas vanligtvis 9–18 månader i förväg." },
+      "partial": { "name": "Delvis planering", "desc": "För par som redan börjat planera och behöver expertstöd och samordning." },
+      "dayOf": { "name": "Dagskoordinering", "desc": "Logistik och samordning på plats för par som planerat själva." },
+      "destination": { "name": "Destinationsbröllop", "desc": "Bröllop i Sverige för internationella par, eller svenska par som gifter sig utomlands." },
+      "elopement": { "name": "Elopement & Mikrobröllop", "desc": "Mindre, intima firanden med genomtänkt, effektiv planering." },
+      "corporate": { "name": "Privata & Företagsevent", "desc": "Jubileer, förlovningsfester och företagsfiranden." }
+    }
+  },
+  "about": {
+    "title": "Om KiSS",
+    "storyTitle": "Vår Historia",
+    "storyBody": "KiSS grundades i Stockholm utifrån en enkel övertygelse: att ett bröllop ska kännas som den mest sanna versionen av de två personer som firar det. Vi blandar skandinavisk minimalism med värme och kulturell rikedom.",
+    "philosophyTitle": "Vår Filosofi",
+    "valuesTitle": "Det vi värdesätter",
+    "values": {
+      "care": "Noggrann omsorg i varje detalj",
+      "honesty": "Ärlig, transparent planering",
+      "craft": "Kärlek till hantverk och design",
+      "culture": "Att fira kulturarv"
+    }
+  },
+  "portfolio": {
+    "title": "Riktiga Bröllop",
+    "subtitle": "Stilbredd från slott, landsbygd, vattennära och stadsmiljö",
+    "filters": { "all": "Alla", "castle": "Slott", "countryside": "Landsbygd", "waterfront": "Vattennära", "city": "Stad" }
+  },
+  "venues": {
+    "title": "Lokaler & Destinationer",
+    "subtitle": "Partnerlokaler i Stockholm och Sverige"
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "Planeringstips, riktiga bröllop och leverantörsreportage"
+  },
+  "contact": {
+    "title": "Kontakta Oss",
+    "subtitle": "Berätta om er fest och vi svarar inom två arbetsdagar.",
+    "form": {
+      "name": "Fullständigt namn", "email": "E-post", "phone": "Telefon",
+      "weddingDate": "Bröllopsdatum", "guestCount": "Uppskattat antal gäster",
+      "venue": "Lokal (om känd)", "budget": "Budgetintervall", "message": "Berätta om er fest",
+      "submit": "Skicka förfrågan", "success": "Tack — vi återkommer snart.",
+      "error": "Något gick fel. Försök igen."
+    },
+    "details": { "addressTitle": "Studio", "phoneTitle": "Telefon", "emailTitle": "E-post", "instagramTitle": "Instagram" }
+  },
+  "footer": {
+    "rights": "Alla rättigheter förbehållna.",
+    "language": "Språk",
+    "quickLinks": "Snabblänkar",
+    "followUs": "Följ oss",
+    "privacy": "Integritetspolicy"
+  },
+  "cookies": {
+    "message": "Vi använder cookies för att förbättra din upplevelse. Genom att fortsätta godkänner du vår användning av cookies.",
+    "accept": "Acceptera", "decline": "Avböj", "learnMore": "Läs mer"
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "body": "KiSS respekterar din integritet och skyddar dina personuppgifter i enlighet med EU:s dataskyddsförordning (GDPR). Denna sida förklarar vilka uppgifter vi samlar in via vårt kontaktformulär, hur vi använder dem och dina rättigheter."
+  }
+}
