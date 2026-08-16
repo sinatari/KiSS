@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Inquiry {
+  id          String   @id @default(cuid())
+  name        String
+  email       String
+  phone       String?
+  weddingDate String?
+  guestCount  String?
+  venue       String?
+  budget      String?
+  message     String
+  locale      String   @default("sv")
+  createdAt   DateTime @default(now())
+}
+
+model Testimonial {
+  id        String   @id @default(cuid())
+  name      String
+  quoteEn   String
+  quoteFa   String
+  quoteSv   String
+  featured  Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model PortfolioEntry {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  title     String
+  venueType String
+  location  String
+  image     String
+  createdAt DateTime @default(now())
+}
