@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "name": "KiSS",
+    "tagline": "Kept in Stockholm Style"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Real Weddings",
+    "venues": "Venues",
+    "journal": "Journal",
+    "contact": "Contact",
+    "cta": "Book a Consultation"
+  },
+  "home": {
+    "heroTitle": "Weddings, planned with quiet elegance",
+    "heroSubtitle": "KiSS designs intimate, editorial weddings across Stockholm and the Swedish countryside — for local couples and destination love stories alike.",
+    "ctaPrimary": "Book a Consultation",
+    "ctaSecondary": "View Our Weddings",
+    "introTitle": "A boutique studio, a personal touch",
+    "introBody": "We handle the stress so you can enjoy the moment. From castle ballrooms to waterfront gardens, KiSS crafts weddings that feel entirely your own — refined, warm, and unforgettable.",
+    "servicesTitle": "How we help",
+    "featuredTitle": "Featured Weddings",
+    "testimonialsTitle": "Kind Words",
+    "finalCtaTitle": "Ready to begin planning?",
+    "finalCtaBody": "Tell us about your celebration and we'll be in touch within two business days."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Tiered planning for every kind of celebration",
+    "faqTitle": "Frequently Asked Questions",
+    "quoteCta": "Request a Custom Quote",
+    "tiers": {
+      "full": { "name": "Full Wedding Planning", "desc": "End-to-end planning from concept to execution, typically booked 9-18 months in advance." },
+      "partial": { "name": "Partial Planning", "desc": "For couples who have started planning and need expert refinement and coordination." },
+      "dayOf": { "name": "Day-of Coordination", "desc": "Logistics and on-site management for couples who planned it themselves." },
+      "destination": { "name": "Destination Weddings", "desc": "Sweden-based weddings for international couples, or Swedish couples marrying abroad." },
+      "elopement": { "name": "Elopements & Micro-Weddings", "desc": "Smaller, intimate celebrations with streamlined, thoughtful planning." },
+      "corporate": { "name": "Private & Corporate Events", "desc": "Anniversaries, engagement parties, and corporate celebrations." }
+    }
+  },
+  "about": {
+    "title": "About KiSS",
+    "storyTitle": "Our Story",
+    "storyBody": "KiSS was founded in Stockholm on a simple belief: that a wedding should feel like the truest version of the two people celebrating it. We blend Scandinavian minimalism with warmth and cultural richness, drawing on design traditions from across the world we call home.",
+    "philosophyTitle": "Our Philosophy",
+    "valuesTitle": "What We Value",
+    "values": {
+      "care": "Meticulous care in every detail",
+      "honesty": "Honest, transparent planning",
+      "craft": "A love of craft and design",
+      "culture": "Celebrating cultural heritage"
+    }
+  },
+  "portfolio": {
+    "title": "Real Weddings",
+    "subtitle": "A style range across castles, countryside, waterfront and city celebrations",
+    "filters": { "all": "All", "castle": "Castle", "countryside": "Countryside", "waterfront": "Waterfront", "city": "City" }
+  },
+  "venues": {
+    "title": "Venues & Destinations",
+    "subtitle": "Partner venues across Stockholm and Sweden"
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "Planning tips, real weddings, and vendor spotlights"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Tell us about your celebration and we'll respond within two business days.",
+    "form": {
+      "name": "Full name", "email": "Email", "phone": "Phone",
+      "weddingDate": "Wedding date", "guestCount": "Estimated guest count",
+      "venue": "Venue (if known)", "budget": "Budget range", "message": "Tell us about your celebration",
+      "submit": "Send Inquiry", "success": "Thank you — we'll be in touch soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "details": { "addressTitle": "Studio", "phoneTitle": "Phone", "emailTitle": "Email", "instagramTitle": "Instagram" }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "language": "Language",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "privacy": "Privacy Policy"
+  },
+  "cookies": {
+    "message": "We use cookies to improve your experience. By continuing, you agree to our use of cookies.",
+    "accept": "Accept", "decline": "Decline", "learnMore": "Learn more"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "body": "KiSS respects your privacy and is committed to protecting your personal data in accordance with the EU General Data Protection Regulation (GDPR). This page explains what data we collect through our inquiry form, how we use it, and your rights as a data subject."
+  }
+}
