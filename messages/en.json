@@ -7,43 +7,43 @@
     "home": "Home",
     "about": "About",
     "services": "Services",
-    "portfolio": "Real Weddings",
+    "portfolio": "Our Events",
     "venues": "Venues",
     "journal": "Journal",
     "contact": "Contact",
     "cta": "Book a Consultation"
   },
   "home": {
-    "heroTitle": "Weddings, planned with quiet elegance",
-    "heroSubtitle": "KiSS designs intimate, editorial weddings across Stockholm and the Swedish countryside — for local couples and destination love stories alike.",
+    "heroTitle": "Events, planned with quiet elegance",
+    "heroSubtitle": "KiSS designs unforgettable weddings, celebrations, and gatherings across Stockholm and the Swedish countryside — for every kind of occasion.",
     "ctaPrimary": "Book a Consultation",
-    "ctaSecondary": "View Our Weddings",
+    "ctaSecondary": "View Our Events",
     "introTitle": "A boutique studio, a personal touch",
-    "introBody": "We handle the stress so you can enjoy the moment. From castle ballrooms to waterfront gardens, KiSS crafts weddings that feel entirely your own — refined, warm, and unforgettable.",
+    "introBody": "We handle the stress so you can enjoy the moment. From weddings to conferences, student festivities to milestone birthdays, KiSS crafts events that feel entirely your own — refined, warm, and unforgettable.",
     "servicesTitle": "How we help",
-    "featuredTitle": "Featured Weddings",
+    "featuredTitle": "Featured Events",
     "testimonialsTitle": "Kind Words",
     "finalCtaTitle": "Ready to begin planning?",
-    "finalCtaBody": "Tell us about your celebration and we'll be in touch within two business days."
+    "finalCtaBody": "Tell us about your event and we'll be in touch within two business days."
   },
   "services": {
     "title": "Services",
-    "subtitle": "Tiered planning for every kind of celebration",
+    "subtitle": "Tailored planning for every kind of occasion",
     "faqTitle": "Frequently Asked Questions",
     "quoteCta": "Request a Custom Quote",
     "tiers": {
-      "full": { "name": "Full Wedding Planning", "desc": "End-to-end planning from concept to execution, typically booked 9-18 months in advance." },
-      "partial": { "name": "Partial Planning", "desc": "For couples who have started planning and need expert refinement and coordination." },
-      "dayOf": { "name": "Day-of Coordination", "desc": "Logistics and on-site management for couples who planned it themselves." },
-      "destination": { "name": "Destination Weddings", "desc": "Sweden-based weddings for international couples, or Swedish couples marrying abroad." },
-      "elopement": { "name": "Elopements & Micro-Weddings", "desc": "Smaller, intimate celebrations with streamlined, thoughtful planning." },
-      "corporate": { "name": "Private & Corporate Events", "desc": "Anniversaries, engagement parties, and corporate celebrations." }
+      "weddings": { "name": "Weddings", "desc": "Full or partial planning, day-of coordination, elopements, and destination weddings — end to end or exactly where you need support." },
+      "corporate": { "name": "Corporate & Conferences", "desc": "Conferences, product launches, offsites, and corporate celebrations, planned with precision and professionalism." },
+      "studentFests": { "name": "Student Fests & Balls", "desc": "High-energy student festivities, graduation balls, and university celebrations that run smoothly from start to finish." },
+      "ceremonies": { "name": "Ceremonies", "desc": "Baptisms, confirmations, graduations, and other milestone ceremonies handled with care and cultural sensitivity." },
+      "birthdays": { "name": "Birthdays & Anniversaries", "desc": "Milestone birthdays, anniversaries, and private celebrations designed around the honoree." },
+      "custom": { "name": "Custom Occasions", "desc": "Engagement parties, retirement parties, reunions, and one-of-a-kind gatherings — tell us your vision." }
     }
   },
   "about": {
     "title": "About KiSS",
     "storyTitle": "Our Story",
-    "storyBody": "KiSS was founded in Stockholm on a simple belief: that a wedding should feel like the truest version of the two people celebrating it. We blend Scandinavian minimalism with warmth and cultural richness, drawing on design traditions from across the world we call home.",
+    "storyBody": "KiSS was founded in Stockholm on a simple belief: that any event — a wedding, a conference, a graduation ball — should feel like the truest version of the people celebrating it. We blend Scandinavian minimalism with warmth and cultural richness, drawing on design traditions from across the world we call home.",
     "philosophyTitle": "Our Philosophy",
     "valuesTitle": "What We Value",
     "values": {
@@ -54,25 +54,25 @@
     }
   },
   "portfolio": {
-    "title": "Real Weddings",
-    "subtitle": "A style range across castles, countryside, waterfront and city celebrations",
-    "filters": { "all": "All", "castle": "Castle", "countryside": "Countryside", "waterfront": "Waterfront", "city": "City" }
+    "title": "Our Events",
+    "subtitle": "A range of celebrations across weddings, corporate events, student fests, and more",
+    "filters": { "all": "All", "weddings": "Weddings", "corporate": "Corporate", "studentFests": "Student Fests", "ceremonies": "Ceremonies", "birthdays": "Birthdays" }
   },
   "venues": {
     "title": "Venues & Destinations",
-    "subtitle": "Partner venues across Stockholm and Sweden"
+    "subtitle": "Partner venues across Stockholm and Sweden, suited to every type of event"
   },
   "journal": {
     "title": "Journal",
-    "subtitle": "Planning tips, real weddings, and vendor spotlights"
+    "subtitle": "Planning tips, real events, and vendor spotlights"
   },
   "contact": {
     "title": "Get in Touch",
-    "subtitle": "Tell us about your celebration and we'll respond within two business days.",
+    "subtitle": "Tell us about your event and we'll respond within two business days.",
     "form": {
       "name": "Full name", "email": "Email", "phone": "Phone",
-      "weddingDate": "Wedding date", "guestCount": "Estimated guest count",
-      "venue": "Venue (if known)", "budget": "Budget range", "message": "Tell us about your celebration",
+      "weddingDate": "Event date", "guestCount": "Estimated guest count",
+      "venue": "Venue (if known)", "budget": "Budget range", "message": "Tell us about your event",
       "submit": "Send Inquiry", "success": "Thank you — we'll be in touch soon.",
       "error": "Something went wrong. Please try again."
     },
