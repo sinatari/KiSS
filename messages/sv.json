@@ -1,40 +1,40 @@
 {
   "brand": { "name": "KiSS", "tagline": "Kept in Stockholm Style" },
   "nav": {
-    "home": "Hem", "about": "Om oss", "services": "Tjänster", "portfolio": "Riktiga Bröllop",
+    "home": "Hem", "about": "Om oss", "services": "Tjänster", "portfolio": "Våra Event",
     "venues": "Lokaler", "journal": "Journal", "contact": "Kontakt", "cta": "Boka konsultation"
   },
   "home": {
-    "heroTitle": "Bröllop, planerade med stillsam elegans",
-    "heroSubtitle": "KiSS designar intima, redaktionella bröllop i Stockholm och den svenska landsbygden — för lokala par och destinationsbröllop.",
+    "heroTitle": "Event, planerade med stillsam elegans",
+    "heroSubtitle": "KiSS designar oförglömliga bröllop, firanden och sammankomster i Stockholm och den svenska landsbygden — för alla typer av tillfällen.",
     "ctaPrimary": "Boka konsultation",
-    "ctaSecondary": "Se våra bröllop",
+    "ctaSecondary": "Se våra event",
     "introTitle": "En boutiquestudio med personlig touch",
-    "introBody": "Vi hanterar stressen så att ni kan njuta av stunden. Från slottssalar till trädgårdar vid vattnet skapar KiSS bröllop som känns helt era egna — förfinade, varma och oförglömliga.",
+    "introBody": "Vi hanterar stressen så att ni kan njuta av stunden. Från bröllop till konferenser, studentfester till runda födelsedagar, skapar KiSS event som känns helt era egna — förfinade, varma och oförglömliga.",
     "servicesTitle": "Hur vi kan hjälpa",
-    "featuredTitle": "Utvalda Bröllop",
+    "featuredTitle": "Utvalda Event",
     "testimonialsTitle": "Vänliga Ord",
     "finalCtaTitle": "Redo att börja planera?",
-    "finalCtaBody": "Berätta om er fest och vi återkommer inom två arbetsdagar."
+    "finalCtaBody": "Berätta om ert event och vi återkommer inom två arbetsdagar."
   },
   "services": {
     "title": "Tjänster",
-    "subtitle": "Nivåanpassad planering för alla typer av firanden",
+    "subtitle": "Skräddarsydd planering för alla typer av tillfällen",
     "faqTitle": "Vanliga frågor",
     "quoteCta": "Begär en skräddarsydd offert",
     "tiers": {
-      "full": { "name": "Full bröllopsplanering", "desc": "Helhetsplanering från idé till genomförande, bokas vanligtvis 9–18 månader i förväg." },
-      "partial": { "name": "Delvis planering", "desc": "För par som redan börjat planera och behöver expertstöd och samordning." },
-      "dayOf": { "name": "Dagskoordinering", "desc": "Logistik och samordning på plats för par som planerat själva." },
-      "destination": { "name": "Destinationsbröllop", "desc": "Bröllop i Sverige för internationella par, eller svenska par som gifter sig utomlands." },
-      "elopement": { "name": "Elopement & Mikrobröllop", "desc": "Mindre, intima firanden med genomtänkt, effektiv planering." },
-      "corporate": { "name": "Privata & Företagsevent", "desc": "Jubileer, förlovningsfester och företagsfiranden." }
+      "weddings": { "name": "Bröllop", "desc": "Full eller delvis planering, dagskoordinering, elopement och destinationsbröllop — helhet eller precis där ni behöver stöd." },
+      "corporate": { "name": "Företag & Konferenser", "desc": "Konferenser, produktlanseringar, offsite-möten och företagsfiranden, planerade med precision och professionalism." },
+      "studentFests": { "name": "Studentfester & Baler", "desc": "Energifyllda studentfester, examensbaler och universitetsfiranden som flyter smidigt från start till slut." },
+      "ceremonies": { "name": "Ceremonier", "desc": "Dop, konfirmationer, examen och andra högtidliga ceremonier hanterade med omsorg och kulturell känslighet." },
+      "birthdays": { "name": "Födelsedagar & Jubileer", "desc": "Runda födelsedagar, jubileer och privata firanden designade kring hedersgästen." },
+      "custom": { "name": "Skräddarsydda Tillfällen", "desc": "Förlovningsfester, avtackningar, återträffar och unika sammankomster — berätta er vision för oss." }
     }
   },
   "about": {
     "title": "Om KiSS",
     "storyTitle": "Vår Historia",
-    "storyBody": "KiSS grundades i Stockholm utifrån en enkel övertygelse: att ett bröllop ska kännas som den mest sanna versionen av de två personer som firar det. Vi blandar skandinavisk minimalism med värme och kulturell rikedom.",
+    "storyBody": "KiSS grundades i Stockholm utifrån en enkel övertygelse: att alla event — ett bröllop, en konferens, en examensbal — ska kännas som den mest sanna versionen av de som firar det. Vi blandar skandinavisk minimalism med värme och kulturell rikedom.",
     "philosophyTitle": "Vår Filosofi",
     "valuesTitle": "Det vi värdesätter",
     "values": {
@@ -45,25 +45,25 @@
     }
   },
   "portfolio": {
-    "title": "Riktiga Bröllop",
-    "subtitle": "Stilbredd från slott, landsbygd, vattennära och stadsmiljö",
-    "filters": { "all": "Alla", "castle": "Slott", "countryside": "Landsbygd", "waterfront": "Vattennära", "city": "Stad" }
+    "title": "Våra Event",
+    "subtitle": "En bredd av firanden inom bröllop, företagsevent, studentfester och mer",
+    "filters": { "all": "Alla", "weddings": "Bröllop", "corporate": "Företag", "studentFests": "Studentfester", "ceremonies": "Ceremonier", "birthdays": "Födelsedagar" }
   },
   "venues": {
     "title": "Lokaler & Destinationer",
-    "subtitle": "Partnerlokaler i Stockholm och Sverige"
+    "subtitle": "Partnerlokaler i Stockholm och Sverige, anpassade för alla typer av event"
   },
   "journal": {
     "title": "Journal",
-    "subtitle": "Planeringstips, riktiga bröllop och leverantörsreportage"
+    "subtitle": "Planeringstips, riktiga event och leverantörsreportage"
   },
   "contact": {
     "title": "Kontakta Oss",
-    "subtitle": "Berätta om er fest och vi svarar inom två arbetsdagar.",
+    "subtitle": "Berätta om ert event och vi svarar inom två arbetsdagar.",
     "form": {
       "name": "Fullständigt namn", "email": "E-post", "phone": "Telefon",
-      "weddingDate": "Bröllopsdatum", "guestCount": "Uppskattat antal gäster",
-      "venue": "Lokal (om känd)", "budget": "Budgetintervall", "message": "Berätta om er fest",
+      "weddingDate": "Eventdatum", "guestCount": "Uppskattat antal gäster",
+      "venue": "Lokal (om känd)", "budget": "Budgetintervall", "message": "Berätta om ert event",
       "submit": "Skicka förfrågan", "success": "Tack — vi återkommer snart.",
       "error": "Något gick fel. Försök igen."
     },
