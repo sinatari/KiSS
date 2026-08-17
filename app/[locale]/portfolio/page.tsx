@@ -7,14 +7,14 @@ import Section from '@/components/Section';
 import { portfolioItems } from '@/lib/content';
 import clsx from 'clsx';
 
-type FilterKey = 'all' | 'castle' | 'countryside' | 'waterfront' | 'city';
+type FilterKey = 'all' | 'weddings' | 'corporate' | 'studentFests' | 'ceremonies' | 'birthdays';
 
 export default function PortfolioPage() {
   const t = useTranslations('portfolio');
   const [filter, setFilter] = useState<FilterKey>('all');
 
-  const filters: FilterKey[] = ['all', 'castle', 'countryside', 'waterfront', 'city'];
-  const filtered = filter === 'all' ? portfolioItems : portfolioItems.filter((p) => p.venueType === filter);
+  const filters: FilterKey[] = ['all', 'weddings', 'corporate', 'studentFests', 'ceremonies', 'birthdays'];
+  const filtered = filter === 'all' ? portfolioItems : portfolioItems.filter((p) => p.eventType === filter);
 
   return (
     <Section>
@@ -41,7 +41,7 @@ export default function PortfolioPage() {
           <div key={item.slug} className="group relative aspect-[4/5] overflow-hidden rounded-sm">
             <Image
               src={item.image}
-              alt={`${item.title} wedding at ${item.location}`}
+              alt={`${item.title} — ${item.location}`}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-105"
             />
