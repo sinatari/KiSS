@@ -7,11 +7,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ivory: '#F8F5EF',
-        stone: '#F5F1EA',
-        charcoal: '#2B2B2B',
-        navy: '#1B2A41',
-        gold: '#B08D57',
+        ivory: '#F4DFD7',
+        stone: '#F5E8D6',
+        charcoal: '#5E4A42',
+        navy: '#F0D0CA',
+        gold: '#D7A7AA',
         sage: '#6B7A5E'
       },
       fontFamily: {

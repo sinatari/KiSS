@@ -12,8 +12,8 @@ html {
 }
 
 body {
-  background-color: #F8F5EF;
-  color: #2B2B2B;
+  background-color: #F4DFD7;
+  color: #5E4A42;
 }
 
 [dir='rtl'] .ltr-flip {
@@ -21,11 +21,11 @@ body {
 }
 
 .btn-primary {
-  @apply inline-block bg-gold text-white px-8 py-3 rounded-sm font-sans text-sm tracking-wide uppercase hover:bg-navy transition-colors duration-300;
+  @apply inline-block bg-gold text-charcoal px-8 py-3 rounded-sm font-sans text-sm tracking-wide uppercase hover:bg-navy hover:text-charcoal transition-colors duration-300;
 }
 
 .btn-secondary {
-  @apply inline-block border border-navy text-navy px-8 py-3 rounded-sm font-sans text-sm tracking-wide uppercase hover:bg-navy hover:text-white transition-colors duration-300;
+  @apply inline-block border border-navy text-charcoal px-8 py-3 rounded-sm font-sans text-sm tracking-wide uppercase hover:bg-navy hover:text-charcoal transition-colors duration-300;
 }
 
 .section {
@@ -33,13 +33,13 @@ body {
 }
 
 .heading-xl {
-  @apply font-serif text-4xl md:text-h1 text-navy;
+  @apply font-serif text-4xl md:text-h1 text-charcoal;
 }
 
 .heading-lg {
-  @apply font-serif text-3xl md:text-h2 text-navy;
+  @apply font-serif text-3xl md:text-h2 text-charcoal;
 }
 
 .heading-md {
-  @apply font-serif text-xl md:text-h3 text-navy;
+  @apply font-serif text-xl md:text-h3 text-charcoal;
 }
